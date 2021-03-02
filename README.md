@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### Languages: Java, C#, TypeScript, (PL/)SQL, HTML, CSS, PHP
 <!--
 **h0p3zZ/h0p3zZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
