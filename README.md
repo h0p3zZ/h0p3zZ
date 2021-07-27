@@ -5,10 +5,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   <a>
-    <img align="center" alt="h0p3zZ' GiotHub Stats" src="https://github-readme-stats-lilac-tau.vercel.app/api/?username=h0p3zZ&show_icons=true&hide_border=true&theme=dracula"/>
+    <img align="center" alt="h0p3zZ' GiotHub Stats" src="https://github-readme-stats-lilac-tau.vercel.app/api/?username=h0p3zZ&show_icons=true&hide_border=true&theme=dracula" style="width: 100%"/>
   </a>
   <a>
-    <img align="center" alt="h0p3zZ' Most used Languages" src="https://github-readme-stats-lilac-tau.vercel.app/api/top-langs/?username=h0p3zZ&show_icons=true&hide_border=true&layout=compact&theme=dracula"/>
+    <img align="center" alt="h0p3zZ' Most used Languages" src="https://github-readme-stats-lilac-tau.vercel.app/api/top-langs/?username=h0p3zZ&show_icons=true&hide_border=true&layout=compact&theme=dracula" style="width: 100%"/>
   </a>
 </details>
  
