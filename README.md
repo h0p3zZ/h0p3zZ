@@ -1,4 +1,4 @@
- <h1 align="center">Hey there, I am Daniel - aka h0p3zZ :wave"</h1>
+ <h1 align="center">Hey there, I am Daniel - aka h0p3zZ :wave:</h1>
 <h3 align="center">I'm a Developer and Student</h3>
 
 - 🌱 I’m currently learning **everything**
