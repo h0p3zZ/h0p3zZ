@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **everything**
 
-- 💬 Ask me about **Angular, Azure Pipelines, C# and Algorithms**
+- 💬 Ask me about **Vuejs, Angular, Pipelines, C# and Algorithms**
 
 - ⚡ Fun fact **I could play basketball - I don't**
 
