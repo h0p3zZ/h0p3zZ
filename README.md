@@ -18,8 +18,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-   <p><img align="left" src="https://github-readme-stats-lilac-tau.vercel.app/api/?username=h0p3zZ&show_icons=true&hide_border=true&theme=dracula&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="h0p3zZ' GitHub Stats" /></p>
- <p>&nbsp;<img align="center" src="https://github-readme-stats-lilac-tau.vercel.app/api/top-langs/?username=h0p3zZ&show_icons=true&hide_border=true&layout=compact&theme=dracula&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="h0p3zZ' Most used Languages" /></p>
+   <p><img align="left" src="https://github-readme-stats-lilac-tau.vercel.app/api/?username=h0p3zZ&show_icons=true&hide_border=true&theme=dracula&layout=compact&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="h0p3zZ' GitHub Stats" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats-lilac-tau.vercel.app/api/top-langs/?username=h0p3zZ&show_icons=true&hide_border=true&layout=compact&theme=dracula&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="h0p3zZ' Most used Languages" /></p>
 </details>
 
 <details>
